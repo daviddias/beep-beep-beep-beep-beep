@@ -1,6 +1,6 @@
 {
   "name": "beep-beep-beep-beep-beep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "beep beep beep beep beep",
   "bin": "bin/cli.js",
   "main": "src/index.js",
